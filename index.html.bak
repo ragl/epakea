@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SHIELD - Free Bootstrap 3 Theme">
+    <meta name="author" content="Carlos Alvarez - Alvarez.is - blacktie.co">
+    <link rel="shortcut icon" href="assets/ico/favicon.png">
+
+    <title> SHIELD - Free Bootstrap 3 Theme</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/icomoon.css">
+    <link href="assets/css/animate-custom.css" rel="stylesheet">
+
+
+    
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    
+    <script src="assets/js/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+  
+  
+  	<div id="navbar-main">
+      <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon icon-warning" style="font-size:30px; color:#3498db;"></span>
+          </button>
+          <a class="navbar-brand hidden-xs hidden-sm" href="#home"><span class="icon icon-warning" style="font-size:18px; color:#3498db;"></span></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="#home" class="smoothScroll">Meet Ralph</a></li>
+			<li> <a href="#about" class="smoothScroll"> About</a></li>
+			<li> <a href="#qualifications" class="smoothScroll"> Qualifications</a></li>
+			<!--/<li> <a href="#team" class="smoothScroll"> Team</a></li> -->
+			<li> <a href="#expertise" class="smoothScroll"> Expertise</a></li>
+			<!--/<li> <a href="#belives" class="smoothScroll"> Believes</a></li> -->
+			<li> <a href="#contact" class="smoothScroll"> Contact</a></li>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    </div>
+
+  
+  
+		<!-- ==== HEADERWRAP ==== -->
+	    <div id="headerwrap" id="home" name="home">
+			<header class="clearfix">
+	  		 		<h1>RALPH GLOOR</h1>
+	  		 		<p><img class="img img-circle" src="assets/img/Ralph-1.jpg" width="120px" <!--height="60px"--></p>
+	  		 		<p>Caffeinated Problem Solver</p>
+	  		</header>	    
+	    </div><!-- /headerwrap -->
+
+		<!-- ==== GREYWRAP ==== -->
+		<div id="greywrap">
+			<div class="row">
+				<div class="col-lg-4 callout">
+					<span class="icon icon-stack"></span>
+					<h2>Bootstrap 3</h2>
+					<p>Shield Theme is powered by Bootstrap 3. The incredible Mobile First Framework is the best option to run your website. </p>
+				</div><!-- col-lg-4 -->
+					
+				<div class="col-lg-4 callout">
+					<span class="icon icon-eye"></span>
+					<h2>Retina Ready</h2>
+					<p>You can use this theme with your iPhone, iPad or MacBook Pro. This theme is retina ready and that is awesome. </p>
+				</div><!-- col-lg-4 -->	
+				
+				<div class="col-lg-4 callout">
+					<span class="icon icon-heart"></span>
+					<h2>Crafted with Love</h2>
+					<p>We don't make sites, we craft themes with love & passion. That is our most valued secret. We only do thing that we love.   </p>
+				</div><!-- col-lg-4 -->	
+			</div><!-- row -->
+		</div><!-- greywrap -->
+		
+		<!-- ==== ABOUT ==== -->
+		<div class="container" id="about" name="about">
+			<div class="row white">
+			<br>
+				<h1 class="centered">ABOUT RALPH</h1>
+				<hr>
+				
+				<div class="col-lg-6">
+					<p>As a seasoned professional with a rich and varied background in project and program management I am more than qualified to make an immediate and positive contribution to any company’s operations. I am very confident that the 15 years of experience I have as a manager and consultant will make me an ideal fit in most position. I am a highly talented and award winning professional who in all my previous roles has consistently delivered results to the highest standard.</p>
+				</div><!-- col-lg-6 -->				
+				<div class="col-lg-6">
+					<p>As my attached resume depicts, I have plenty of experience of managing people, projects and reaching goals and I firmly believe that your company will greatly benefit from my expertise in the fields of controlling and influencing systems at the levels of organisation, team and individual in a systemic & discursive approach.</p>
+				</div><!-- col-lg-6 -->
+				<div class="col-lg-6">
+					<p>Being a solid team player, I can not only work to tight deadlines, but also have plenty of initiative to deal with unexpected problems. I have a consultative approach coupled with a “can-do” attitude, and you can be assured that I will always represent your company in a professional and diligent manner when meeting, negotiating and corresponding with clients.</p>
+				</div><!-- col-lg-6 -->
+			</div><!-- row -->
+		</div><!-- container -->
+		
+		<!-- ==== SECTION DIVIDER1 -->
+		<section class="section-divider textdivider divider1">
+			<div class="container">
+				<h1>EXPAND BOUNDARIES</h1>
+				<hr>
+				<p>To achieve real change, we have to expand boundaries. Because the Wild West of what-could-be is unexplored but rife with opportunity.</p>
+			</div><!-- container -->
+		</section><!-- section -->
+		
+		
+		<!-- ==== QUALIFICATIONS & SKILLS ==== -->
+		<div class="container" id="qualifications" name="qualifications">
+			<br>
+			<br>
+			<div class="row">
+				<h2 class="centered">QUALIFICATIONS & SKILLS</h2>
+				<hr>
+				<br>
+				<div class="col-lg-offset-2 col-lg-8">
+					 <p>15 years’ experience as a problem solver in Business and IT / Managed Project & Programs with a budget up to 12mio CHF / Up to 15 direct reports, led an intl. consulting team of 12 (on-& offsite) / Worked in Multicultural, large enterprises as contractor or employee / Facilitated a successful Change Management program (incl. Business Process Redesign) / Goal focused, open-minded, engage and enable people to fulfill their roles and succeed / Self-confident and self-reliant in facilitating meetings and presentations to all levels / Critical thinking, reasoning, and resourceful problem solving </p>
+           <p>Led Top level strategic initiatives directed and initiated by the CEO, streamlined initiatives to the overall goal / Able to implement corrective measures and solutions quickly and in a resolute manner / Consulting and Management support for struggling projects in critical situations by quickly asses situations and decide next steps / Solve problems outside my area of expertise / Controlling and influencing systems at the levels of organisation, team and individual in a systemic & discursive approach</p>
+					 <p>Other Experience:
+						<a href="https://www.metaplan.com" target=„_blank“>Metaplan facilitation </a>, <a href="http://www.swiss-icehockey.ch/SIH/referees/de/index.php" target=„_blank“>Hockey Ref </a>, <a href="http://www.gotomeeting.com/" target=„_blank“>GoToMeetings </a>, <a href="https://hootsuite.com" target=„_blank“>Hootsuite </a>, <a href="https://docs.google.com/‎" target=„_blank“>Google Docs </a>, <a href="http://en.wikipedia.org/wiki/HTML" target=„_blank“>HTML </a>, <a href="https://github.com/" target=„_blank“>Github </a>, <a href="https://www.bootstrap.com/" target=„_blank“>Bootstrap</a></p>
+						<p>*Quick Learner: Built this site in a day</p>
+				</div><!-- col-lg -->
+			</div><!-- row -->
+			
+		</div><!-- container -->
+  		
+
+				<!-- ==== SECTION DIVIDER2 -->
+		<section class="section-divider textdivider divider3">
+			<div class="container">
+				<h1>DESIGN SOLVE PROBLEMS</h1>
+				<hr>
+				<p>From the purely practical to the richly philosophical, design is the solution to a host of challenges.</p>
+			</div><!-- container -->
+		</section><!-- section -->
+
+
+		
+		<!-- ==== EXPERTISE ==== --
+		<div class="container" id="expertise" name="expertise">
+		<br>
+			<div class="row">
+				<br>
+				<h1 class="centered">EXPERTISE</h1>
+				<hr>
+				<br>
+				<br>
+			</div><!-- /row --
+			
+			<div class="row">
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
+					<br>
+						<p><img class="img img-circle" src="assets/img/team/team04.jpg" width="60px" height="60px"></p>
+						<h4>Yxxxx Xyyyyy</h4>
+						<h5>Published Aug 30.</h5>
+					</div>
+					<div class="col-lg-8 blog-content">
+						<h2>Project Management</h2>
+						<p>
+							Whether you require resources long term or short term, I have the flexibility and talent to accommodate your needs.
+							Managing strategic, mission-critical initiatives or recovering troubled projects: I'am skilled at conducting rapid diagnosis of problems, 
+							instituting course corrections, and bringing projects back on track.
+						</p>
+						<p> As a seasoned professional with a rich and varied background in project and program management I am more than qualified to make an immediate
+							 and positive contribution to your company’s operations. 
+					  </p>
+						<p><a href="#" class="icon icon-link"> Read More</a></p>
+						<br>
+					</div>
+				</div><!-- /col --
+				
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
+					<br>
+						<p><img class="img img-circle" src="assets/img/team/team03.jpg" width="60px" height="60px"></p>
+						<h4>Mcccccc Ldddd</h4>
+						<h5>Published Aug 28.</h5>
+					</div>
+					<div class="col-lg-8 blog-content">
+						<h2>Change Management</h2>
+						<p>
+						I see change management as the sum of all activities that target the definition and implementation of a specific development in the organization.
+						People, markets, strategies, structures, cultures, processes, or even technologies – all can be the focus of change. But, in the end, it always 
+						involves the people in the organization.
+						</p>
+						<p>Changes cannot, however, be dictated – they need to be negotiated. It is a matter of combining different perspectives and objectives. 
+							That is why I work discursively across all business areas. Which is not to say that everyone should be involved in every decision. 
+							Who can contribute to a solution? Who will implement it? I will find the right persons and engage them in a structured dialog.
+							</p>
+						<p><a href="#" class="icon icon-link"> Read More</a></p>
+						<br>
+					</div>
+				</div><!-- /col --
+				
+			</div><!-- /row --
+			<br>
+			<br>
+			
+			<div class="row">
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
+					<br>
+						<p><img class="img img-circle" src="assets/img/team/team04.jpg" width="60px" height="60px"></p>
+						<h4>Yxxxx Xyyyyy</h4>
+						<h5>Published Aug 30.</h5>
+					</div>
+					<div class="col-lg-8 blog-content">
+						<h2>Consulting Process</h2>
+						<p>
+							Armed with insight, we embark on designing the right brand experience that engages the audience.
+							It encompasses both the strategic direction and creative execution that solves a business problem 
+							and brings the brand to life.
+					  </p>
+						<p><a href="#" class="icon icon-link"> Read More</a></p>
+						<br>
+					</div>
+				</div><!-- /col --
+				
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
+					<br>
+						<p><img class="img img-circle" src="assets/img/team/team03.jpg" width="60px" height="60px"></p>
+						<h4>Mcccccc Ldddd</h4>
+						<h5>Published Aug 28.</h5>
+					</div>
+					<div class="col-lg-8 blog-content">
+						<h2>Philosophy</h2>
+						<p>
+							MY thinking is based on the principles of organizational sociology and the discursive approach
+							to consulting of Metaplan. I work in a dialog context, including the various stakeholders in a project.
+							<br>
+							My work in projects is consistently systematic but flexible. There are always surprises on the path to the goal.
+							But I don’t see them as a problem, just as part of the managed process.
+							I focus on clear goals and measure myself against the achieved impact.
+							</p>
+						<p><a href="#" class="icon icon-link"> Read More</a></p>
+						<br>
+					</div>
+				</div><!-- /col --
+				
+			</div><!-- /row --
+
+		</div><!-- /container --> 
+
+		<!-- ==== EXPERTISE ==== -->
+		<div class="container" id="expertise" name="expertise">
+		<br>
+			<div class="row white centered">
+				<h1 class="centered">EXPERTISE</h1>
+				<hr>
+				<br>
+				<br>
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/arrow.jpg" height="120px" alt="">
+					<br>
+					<h4><b>PROJECT MANAGEMENT</b></h4>
+					<p>
+							Whether you require resources long term or short term, I have the flexibility and talent to accommodate your needs.
+							Managing strategic, mission-critical initiatives or recovering troubled projects: I'am skilled at conducting rapid diagnosis of problems, 
+							instituting course corrections, and bringing projects back on track.
+						</p>
+						<p> As a seasoned professional with a rich and varied background in project and program management I am more than qualified to make an immediate
+							 and positive contribution to your company’s operations. 
+					  </p>
+			  </div><!-- col-lg-3 -->
+				
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/arrow.jpg" height="120px" alt="">
+					<br>
+					<h4><b>CHANGE MANAGEMENT</b></h4>
+				<p>
+						I see change management as the sum of all activities that target the definition and implementation of a specific development in the organization.
+						People, markets, strategies, structures, cultures, processes, or even technologies – all can be the focus of change. But, in the end, it always 
+						involves the people in the organization.
+						</p>
+						<p>Changes cannot, however, be dictated – they need to be negotiated. It is a matter of combining different perspectives and objectives. 
+							That is why I work discursively across all business areas. Which is not to say that everyone should be involved in every decision. 
+							Who can contribute to a solution? Who will implement it? I will find the right persons and engage them in a structured dialog.
+							</p>
+				</div><!-- col-lg-3 -->
+				
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/arrow.jpg" height="120px" alt="">
+					<br>
+					<h4><b>CONSULTING PROCESS</b></h4>
+					<p>I offer modular solutions tailored to your needs along the whole value chain in my field of expertise – change management, project management 
+						, and consulting – from analysis, decision-making and concepts to implementation and evaluation.</p>
+				</div><!-- col-lg-3 -->
+				
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/arrow.jpg" height="120px" alt="">
+					<br>
+					<h4><b>PHILOSOPHY</b></h4>
+					<p>
+							MY thinking is based on the principles of organizational sociology and the discursive approach
+							to consulting of Metaplan all with a systemic approach. I work in a dialog context, including the various stakeholders in a project.
+							<br>
+							My work in projects is consistently systematic but flexible. There are always surprises on the path to the goal.
+							But I don’t see them as a problem, just as part of the managed process.
+							I focus on clear goals and measure myself against the achieved impact.
+							</p>
+				</div><!-- col-lg-3 -->
+				
+			</div><!-- row -->
+		</div><!-- container -->
+
+		<!-- ==== GREYWRAP ==== -->
+			<!-- section --><div id="greywrap">
+			<h1 class="centered">BELIEVES</h1>
+			<br>
+			<br>
+	
+			<div class="row">
+				<div class="col-lg-4 callout">
+					<span class="icon icon-stack"></span>
+					<h2>Change is possible.</h2>
+					<p>itiating change in an organization is not an easy thing to do. But new ideas can be realized when they are 
+						supported by the people in the organization. People are willing to take an active part in this process when they understand it. </p>
+				</div><!-- col-lg-4 -->
+					
+				<div class="col-lg-4 callout">
+					<span class="icon icon-eye"></span>
+					<h2>Change has to be managed.</h2>
+					<p>Changes require conscientiously exerting influence on people and systems. But systems have a certain degree of inertia. 
+						It takes a “critical mass” to bring about transformation. But the time invested in the process is already part of the solution. </p>
+				</div><!-- col-lg-4 -->	
+				
+				<div class="col-lg-4 callout">
+					<span class="icon icon-heart"></span>
+					<h2>Dialogue is the best path to change.</h2>
+					<p>Changes cannot be dictated, they need to be negotiated and backed by a broad base. There is not one truth, but rather many 
+						(equally valid) realities. So dialogue is essential in order to include and enhance the different perspectives.   </p>
+				</div><!-- col-lg-4 -->	
+			</div><!-- row -->
+		</div><!-- greywrap -->
+		<!-- ==== SECTION DIVIDER6 ==== -->
+		<section class="section-divider textdivider divider6">
+			<div class="container">
+				<h1>CRAFTED IN SWITZERLAND.</h1>
+				<hr>
+				<p><span class="icon icon-home"></span> Zürich, ZH, CH<br/>
+						<span class="icon icon-mobile"></span> +41 79 438 29 69 <br/>
+					</p>
+			</div><!-- container -->
+		</section><!-- section -->
+		
+		<div class="container" id="contact" name="contact">
+			<div class="row">
+			<br>
+				<h1 class="centered">CONTACT RALPH</h1>
+				<div class="col-lg-8 col-lg-offset-2">
+           
+         <p class="centered">Please feel free to reach out to me via email or a variety of social platforms to discuss opportunities, or even to just say hello!</p>
+    
+		<!-- Wie Kann ich diesen abschnitt zentrieren und wie kriege ich die social buttons vereinheitlicht ?!? -->
+					<p><span class="icon icon-home"></span> Zürich, ZH, CH<br/>
+						<span class="icon icon-mobile"></span> <a  href="tel:+41794382969"> +41 79 438 29 69 </a> <br/>
+						<span class="icon icon-envelop"></span> <a href="#"> ralph.gloor@epakea.ch</a> <br/>
+						<span class="icon icon-twitter"></span> <a href="#"> @epakea </a> <br/>
+						<span class="icon icon-facebook"></span> <a href="#"> Epakea </a> <br/>
+						<span class="icon icon-briefcase-2"></span> <a href="https://www.xing.com/profile/Ralph_Gloor"> Xing </a> <br/>
+						<span class="icon icon-briefcase-2"></span> <a href="https://linkedin.com/in/ralphgloor/"> LinkedIn </a> <br/>
+			
+					</p>
+                <h2 class="centered">EPAKEA by Ralph Gloor</h2>
+				</div><!-- col -->
+			</div><!-- row -->
+		
+		</div><!-- container -->
+
+		<div id="footerwrap">
+			<div class="container">
+				<h4>Created by <a href="http://www.epakea.ch">EPAKEA by Ralph Gloor</a> - Copyright 2014</h4>
+			</div>
+		</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+		
+
+	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="assets/js/retina.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+	<script type="text/javascript" src="assets/js/jquery-func.js"></script>
+  </body>
+</html>
